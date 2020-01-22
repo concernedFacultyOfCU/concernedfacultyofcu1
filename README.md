@@ -1,4 +1,4 @@
-# My GitHub Blog About Web Development, Website Design and Graphic Design
+# We are a group of CU faculty who want to be involved in creating better governance at the university in light of the debacles of the past year.
 
 ## Credits:
 
